@@ -1,0 +1,12 @@
+# package directories
+node_modules
+
+# Serverless directories
+.serverless
+.idea
+.build
+coverage
+.nyc_output
+*.iml
+package-lock.json
+.DS_Store
